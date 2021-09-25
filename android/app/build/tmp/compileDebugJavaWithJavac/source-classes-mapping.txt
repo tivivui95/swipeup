@@ -1,0 +1,14 @@
+com/swipeup/ReactNativeFlipper.java
+ com.swipeup.ReactNativeFlipper
+ com.swipeup.ReactNativeFlipper$1
+ com.swipeup.ReactNativeFlipper$2
+ com.swipeup.ReactNativeFlipper$2$1
+com/swipeup/MainApplication.java
+ com.swipeup.MainApplication
+ com.swipeup.MainApplication$1
+com/swipeup/MainActivity.java
+ com.swipeup.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/swipeup/BuildConfig.java
+ com.swipeup.BuildConfig
